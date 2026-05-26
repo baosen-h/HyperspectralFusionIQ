@@ -1,0 +1,5 @@
+__pycache__/
+*.py[cod]
+
+DATA/OUTPUT/*
+!DATA/OUTPUT/.gitkeep
